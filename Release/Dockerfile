@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 
 # Setup environ
 ENV user newbie
-ENV prob_port 51233
+ENV prob_port 12554
 ENV binary bl4hbl4h
 
 # Install packages
